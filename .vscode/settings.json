@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/ring_handler_project"
+    ],
+    "python.defaultInterpreterPath": "${workspaceFolder}/env/bin/python3",
+    "python.analysis.typeCheckingMode": "basic"
+} 
